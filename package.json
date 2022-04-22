@@ -20,5 +20,9 @@
   "homepage": "https://github.com/FelipeFNavas/api_bookstore#readme",
   "devDependencies": {
     "nodemon": "^2.0.15"
-  }
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "type": "module"
 }
